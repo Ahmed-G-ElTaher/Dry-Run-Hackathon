@@ -1,4 +1,5 @@
 # 🌟 Dry-Run-Hackathon: Advancing Egypt Through Quantum Innovation
+![](https://github.com/Ahmed-G-ElTaher/Dry-Run-Hackathon/blob/main/Images/WhatsApp%20Image%202025-07-28%20at%208.35.56%20PM.jpeg)
 ## Overview
 Welcome to an exclusive quantum computing hackathon focused on leveraging quantum computational paradigms to address critical challenges specific to Egypt. This event brings together quantum researchers, computational scientists, and domain experts to explore cutting-edge applications of quantum algorithms in atmospheric chemistry, meteorological forecasting, and archaeological discovery.
 
@@ -9,12 +10,15 @@ Welcome to an exclusive quantum computing hackathon focused on leveraging quantu
 * Advance quantum computing research in the Middle East and North Africa region
 
 ## 🧪 Challenge Track 1: Quantum Computing for Atmospheric Chemistry in Egypt
+![](https://github.com/Ahmed-G-ElTaher/Dry-Run-Hackathon/blob/main/Images/20250728_2015_Quantum%20Solutions%20for%20Egypt_simple_compose_01k190djv8e979jwq16ed1ex84.png)
+
 
 ## 🌦️ Challenge Track 2: Quantum Computing for Weather Forecasting in Cairo
-
+![](https://github.com/Ahmed-G-ElTaher/Dry-Run-Hackathon/blob/main/Images/20250728_2021_Quantum%20Forecasting%20in%20Cairo_simple_compose_01k190rrn8fxysp7cgpqf1dg4k.png)
 
 
 ## 🏺 Challenge Track 3: Quantum Computing for Archaeological Site Discovery in Egypt
+![](https://github.com/Ahmed-G-ElTaher/Dry-Run-Hackathon/blob/main/Images/20250728_2019_Quantum%20Archaeology%20Optimization_simple_compose_01k190n8jdfgrbmhd96kp11y5z.png)
 Egypt harbors an estimated 70% of the world's archaeological treasures, yet only a fraction have been excavated due to the immense challenge of locating sites buried beneath millennia of Nile sediment and desert sand. With over 500 potential archaeological sites identified through preliminary AI analysis, Egypt faces a critical optimization problem: how to efficiently prioritize, validate, and excavate these sites given limited resources, expertise, and time.
 Current archaeological prospection methods suffer from computational bottlenecks when processing multi-terabyte satellite imagery, complex geophysical sensor arrays, and heterogeneous historical datasets. The combinatorial complexity of optimizing excavation sequences, considering factors such as site accessibility, historical significance, preservation urgency, and logistical constraints, presents an ideal application for quantum computing advantages.
 
