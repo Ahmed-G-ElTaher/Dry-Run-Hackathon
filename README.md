@@ -11,7 +11,20 @@ Welcome to an exclusive quantum computing hackathon focused on leveraging quantu
 
 ## 🧪 Challenge Track 1: Quantum Computing for Atmospheric Chemistry in Egypt
 ![](https://github.com/Ahmed-G-ElTaher/Dry-Run-Hackathon/blob/main/Images/20250728_2015_Quantum%20Solutions%20for%20Egypt_simple_compose_01k190djv8e979jwq16ed1ex84.png)
+## Challenge Description:
+Quantum Modeling of Humidity-Dependent Reaction Kinetics in the Nile Delta
+Title: Quantum Simulation of Sulfate Aerosol Formation under High Humidity Conditions
+Relevance: The Nile Delta experiences humidity >80% year-round, accelerating sulfate aerosol formation from industrial emissions. This quantum challenge simulates how humidity affects:
+SO₂ + OH → HOSO₂ → SO₃ → SO₄²⁻ (sulfate aerosol)
 
+## Problem Statement
+Develop a hybrid quantum-classical model that:
+
+Simulates the reaction pathway energy surface for SO₃ + nH₂O → H₂SO₄ clusters (n=1-3)
+
+Predicts reaction rates at 60-100% relative humidity
+
+Maps quantum outputs to aerosol nucleation probabilities
 
 ## 🌦️ Challenge Track 2: Quantum Computing for Weather Forecasting in Cairo
 ![](https://github.com/Ahmed-G-ElTaher/Dry-Run-Hackathon/blob/main/Images/20250728_2021_Quantum%20Forecasting%20in%20Cairo_simple_compose_01k190rrn8fxysp7cgpqf1dg4k.png)
